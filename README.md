@@ -6,10 +6,10 @@ This project seeks to analyze Walmart sales data with the goals of identifying t
 
 # Purpose Of The Project
 
-The primary objective of this project is to gain insights from Walmart's sales data, aiming to understand the various factors influencing sales across its different branches.
+The goal of this project is to extract actionable insights from Walmart’s sales data, uncovering trends and factors that impact sales performance in various branches.
 
 # About Data
-The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was sourced from the Kaggle Walmart Sales Forecasting Competition. It includes sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw. The dataset comprises 1,000 rows and 17 columns, capturing key sales metrics and transaction details.
 
 # Analysis List
 
